@@ -7,7 +7,7 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/VJ_Botz",
+    "success_url": "https://telegram.dog/rdxmovie_hd",
     "repository": "https://github.com/VJBots/VJ-Auto-Forward-Bot",
     "env": {
         "AS_COPY": {
